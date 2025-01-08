@@ -1,0 +1,19 @@
+h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+    width: 100%;
+}
+
+strong {
+    font-size: large;
+    margin: 5px;
+    background-color: yellow;
+    color: black;
+}
+
+div {
+    background-color: green;
+    height: 250px;
+    padding: 5px;
+}
